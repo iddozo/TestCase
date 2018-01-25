@@ -37,11 +37,11 @@
     "car_lat": 48.855699,
     "badges": "[0]"
   },
-    {
-    "parking_duration": 1,
-    "destination_lat": 48.833678839753,
-    "destination_lon": 2.3756861686707,
-    "geocoding_query": "80 Boulevard Auguste Blanqui",
+  {
+    "parking_duration": 2,
+    "destination_lat": 48.862300919263,
+    "destination_lon": 2.288224697113,
+    "geocoding_query": "Rue Molitor",
     "lang": "en",
     "platform": "ios",
     "session_id": "3502ED9D-91B3-43E5-AD51-3694AA37D288",
