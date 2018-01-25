@@ -36,5 +36,25 @@
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
     "badges": "[0]"
+  },
+  {
+    "parking_duration": 1.5,
+    "destination_lat": 48.862078,
+    "destination_lon": 2.322534,
+    "geocoding_query": "84436",
+    "lang": "en",
+    "platform": "ios",
+    "session_id": "3502ED9D-91B3-43E5-AD51-3694AA37D288",
+    "user_id": "POSTMANT-BA3D-4146-B3FC-96D12C06371B",
+    "sparking_lot": true,
+    "booking_only": true,
+    "include_car_to_destination": true,
+    "radius": 350,
+    "unrecommended": true,
+    "parking_lot_lon": 2.3495937,
+    "parking_lot_lat": 48.86742,
+    "car_lon": 2.3285997,
+    "car_lat": 48.855699,
+    "badges": "[0]"
   }
 ]
