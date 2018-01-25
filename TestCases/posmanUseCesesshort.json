@@ -17,11 +17,11 @@
     "car_lat": 49.1142418347065,
     "badges": "[0]"
   },
-    {
-    "parking_duration": 1,
-    "destination_lat": 48.833678839753,
-    "destination_lon": 2.3756861686707,
-    "geocoding_query": "80 Boulevard Auguste Blanqui",
+  {
+    "parking_duration": 1.5,
+    "destination_lat": 48.862078,
+    "destination_lon": 2.322534,
+    "geocoding_query": "84436",
     "lang": "en",
     "platform": "ios",
     "session_id": "3502ED9D-91B3-43E5-AD51-3694AA37D288",
@@ -37,11 +37,11 @@
     "car_lat": 48.855699,
     "badges": "[0]"
   },
-  {
-    "parking_duration": 1.5,
-    "destination_lat": 48.862078,
-    "destination_lon": 2.322534,
-    "geocoding_query": "84436",
+    {
+    "parking_duration": 1,
+    "destination_lat": 48.833678839753,
+    "destination_lon": 2.3756861686707,
+    "geocoding_query": "80 Boulevard Auguste Blanqui",
     "lang": "en",
     "platform": "ios",
     "session_id": "3502ED9D-91B3-43E5-AD51-3694AA37D288",
