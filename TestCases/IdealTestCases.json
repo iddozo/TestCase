@@ -1,6 +1,7 @@
 [
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[3]",
     "parking_duration": 1,
     "destination_lat": 32.091916,
@@ -18,6 +19,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[3]",
     "parking_duration": 1,
     "destination_lat": 32.092381,
@@ -35,6 +37,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.07549,
@@ -52,6 +55,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.089466,
@@ -69,6 +73,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.06283,
@@ -86,6 +91,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.05919,
@@ -103,6 +109,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.086304,
@@ -120,6 +127,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.085245,
@@ -137,6 +145,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.058787,
@@ -154,6 +163,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0,3,50]",
     "parking_duration": 1,
     "destination_lat": 32.058787,
@@ -171,6 +181,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.062332,
@@ -188,6 +199,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0,3]",
     "parking_duration": 1,
     "destination_lat": 32.062332,
@@ -205,6 +217,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.065758,
@@ -222,6 +235,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.082222,
@@ -239,6 +253,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.069359,
@@ -256,6 +271,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.070337,
@@ -273,6 +289,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.061777,
@@ -290,6 +307,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.067014,
@@ -307,6 +325,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[2]",
     "parking_duration": 1,
     "destination_lat": 32.076378,
@@ -324,6 +343,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.079845,
@@ -341,6 +361,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[3]",
     "parking_duration": 1,
     "destination_lat": 32.062327,
@@ -358,6 +379,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.062327,
@@ -375,6 +397,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.071239,
@@ -392,6 +415,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.073294,
@@ -409,6 +433,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.056176,
@@ -426,6 +451,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.055554,
@@ -443,6 +469,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.052377,
@@ -460,6 +487,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[3]",
     "parking_duration": 1,
     "destination_lat": 32.078614,
@@ -477,6 +505,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.069602,
@@ -494,6 +523,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.086078,
@@ -511,6 +541,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.063922,
@@ -528,6 +559,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.065338,
@@ -545,6 +577,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[1]",
     "parking_duration": 1,
     "destination_lat": 32.065338,
@@ -562,6 +595,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.075347,
@@ -579,6 +613,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.05018,
@@ -596,6 +631,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.05458,
@@ -613,6 +649,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.071673,
@@ -630,6 +667,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0,2,3]",
     "parking_duration": 1,
     "destination_lat": 32.071673,
@@ -647,6 +685,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.088118,
@@ -664,6 +703,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.0725,
@@ -681,6 +721,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 1,
     "destination_lat": 32.08896,
@@ -698,6 +739,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 3,
     "destination_lat": 32.06425,
@@ -715,6 +757,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 3,
     "destination_lat": 32.076252,
@@ -732,6 +775,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 10,
     "destination_lat": 32.067208,
@@ -749,6 +793,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 8,
     "destination_lat": 32.075542,
@@ -766,6 +811,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 4,
     "destination_lat": 32.090119,
@@ -783,6 +829,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 4,
     "destination_lat": 32.073602,
@@ -800,6 +847,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 10,
     "destination_lat": 32.065908,
@@ -817,6 +865,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 10,
     "destination_lat": 32.089398,
@@ -834,6 +883,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 7,
     "destination_lat": 32.076971,
@@ -851,6 +901,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 4,
     "destination_lat": 32.06915,
@@ -868,6 +919,7 @@
   },
   {
     "lang": "en",
+    "radius": 350,
     "badges": "[0]",
     "parking_duration": 10,
     "destination_lat": 32.084481,
