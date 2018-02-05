@@ -1,0 +1,466 @@
+[
+  {
+    "lang": "fr",
+    "query": "hotel trinite",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.880027,
+    "expectedLon": 2.33437
+  },
+  {
+    "lang": "fr",
+    "query": "rue de clichy 16",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.878459,
+    "expectedLon": 2.330463
+  },
+  {
+    "lang": "fr",
+    "query": "hopital saint louis",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.87365,
+    "expectedLon": 2.369966
+  },
+  {
+    "lang": "fr",
+    "query": "3 rue ribera",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.850551,
+    "expectedLon": 2.270194
+  },
+  {
+    "lang": "fr",
+    "query": "168 de magenta",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.88336,
+    "expectedLon": 2.349992
+  },
+  {
+    "lang": "fr",
+    "query": "46 av breteuil",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.850069,
+    "expectedLon": 2.311459
+  },
+  {
+    "lang": "fr",
+    "query": "127 de port royal",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.839514,
+    "expectedLon": 2.337247
+  },
+  {
+    "lang": "fr",
+    "query": "louvre",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.860679,
+    "expectedLon": 2.337709
+  },
+  {
+    "lang": "fr",
+    "query": "34 maurice ripoche",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.832924,
+    "expectedLon": 2.324366
+  },
+  {
+    "lang": "fr",
+    "query": "100 rue blanche",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.883154,
+    "expectedLon": 2.332372
+  },
+  {
+    "lang": "fr",
+    "query": "place de la nation",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.848389,
+    "expectedLon": 2.395871
+  },
+  {
+    "lang": "fr",
+    "query": "place de italie",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.8319,
+    "expectedLon": 2.355742
+  },
+  {
+    "lang": "fr",
+    "query": "8 rue scribe",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.872167,
+    "expectedLon": 2.331004
+  },
+  {
+    "lang": "fr",
+    "query": "port debilly",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.862128,
+    "expectedLon": 2.293709
+  },
+  {
+    "lang": "fr",
+    "query": "stade de france",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.924493,
+    "expectedLon": 2.360091
+  },
+  {
+    "lang": "fr",
+    "query": "hotel napoleon",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.874376,
+    "expectedLon": 2.298032
+  },
+  {
+    "lang": "fr",
+    "query": "3 passage cardinet",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.885597,
+    "expectedLon": 2.310523
+  },
+  {
+    "lang": "fr",
+    "query": "le clan des jules",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.888358,
+    "expectedLon": 2.317002
+  },
+  {
+    "lang": "fr",
+    "query": "le bistrot des dames",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.885039,
+    "expectedLon": 2.324971
+  },
+  {
+    "lang": "fr",
+    "query": "place de aligre",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.848805,
+    "expectedLon": 2.378328
+  },
+  {
+    "lang": "fr",
+    "query": "113 bd de menilmontant",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.865384,
+    "expectedLon": 2.384044
+  },
+  {
+    "lang": "fr",
+    "query": "10 bullourde",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.854699,
+    "expectedLon": 2.377057
+  },
+  {
+    "lang": "fr",
+    "query": "square armand",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.850408,
+    "expectedLon": 2.377113
+  },
+  {
+    "lang": "fr",
+    "query": "31 rue de chare",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.852172,
+    "expectedLon": 2.371491
+  },
+  {
+    "lang": "fr",
+    "query": "23 chateau des rentiers",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.823875,
+    "expectedLon": 2.370226
+  },
+  {
+    "lang": "fr",
+    "query": "54 rue de chabrol",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.877297,
+    "expectedLon": 2.350375
+  },
+  {
+    "lang": "fr",
+    "query": "rue de rochechouart 36",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.878866,
+    "expectedLon": 2.345578
+  },
+  {
+    "lang": "fr",
+    "query": "16 rue du dahomey",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.851132,
+    "expectedLon": 2.383748
+  },
+  {
+    "lang": "fr",
+    "query": "11 cabanis paris",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.830328,
+    "expectedLon": 2.336896
+  },
+  {
+    "lang": "fr",
+    "query": "accorhotels arena",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.838577,
+    "expectedLon": 2.378488
+  },
+  {
+    "lang": "fr",
+    "query": "rue de javal 119",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.843393,
+    "expectedLon": 2.28756
+  },
+  {
+    "lang": "fr",
+    "query": "tour ei",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.858337,
+    "expectedLon": 2.294417
+  },
+  {
+    "lang": "fr",
+    "query": "galerie lafayette",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.873665,
+    "expectedLon": 2.331046
+  },
+  {
+    "lang": "fr",
+    "query": "arc de tr",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.873743,
+    "expectedLon": 2.295001
+  },
+  {
+    "lang": "fr",
+    "query": "pompidou",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.860614,
+    "expectedLon": 2.352221
+  },
+  {
+    "lang": "fr",
+    "query": "98 rue lepic",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.887249,
+    "expectedLon": 2.33694
+  },
+  {
+    "lang": "fr",
+    "query": "150 victor hugo paris",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.86695,
+    "expectedLon": 2.278502
+  },
+  {
+    "lang": "fr",
+    "query": "7 rue dorian",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.846721,
+    "expectedLon": 2.392932
+  },
+  {
+    "lang": "en",
+    "query": "palace of versailles",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.804857,
+    "expectedLon": 2.120302
+  },
+  {
+    "lang": "fr",
+    "query": "58 faubourg saint honor",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.869335,
+    "expectedLon": 2.320002
+  },
+  {
+    "lang": "fr",
+    "query": "25 rue de sevres",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.851433,
+    "expectedLon": 2.32693
+  },
+  {
+    "lang": "fr",
+    "query": "notre dame",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.852972,
+    "expectedLon": 2.349856
+  },
+  {
+    "lang": "fr",
+    "query": "15 rue de riv",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.855851,
+    "expectedLon": 2.357641
+  },
+  {
+    "lang": "fr",
+    "query": "25 avenue foch",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.872404,
+    "expectedLon": 2.288147
+  },
+  {
+    "lang": "fr",
+    "query": "2 rue bayen",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.878656,
+    "expectedLon": 2.295826
+  },
+  {
+    "lang": "fr",
+    "query": "hotel queen mary",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.873035,
+    "expectedLon": 2.32513
+  },
+  {
+    "lang": "fr",
+    "query": "15 rue cler",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.858382,
+    "expectedLon": 2.305703
+  },
+  {
+    "lang": "fr",
+    "query": "26 av tourville",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.854326,
+    "expectedLon": 2.306728
+  },
+  {
+    "lang": "fr",
+    "query": "bastille",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.853165,
+    "expectedLon": 2.36914
+  },
+  {
+    "lang": "fr",
+    "query": "hotel concorde montparnasse",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.837777,
+    "expectedLon": 2.318406
+  },
+  {
+    "lang": "fr",
+    "query": "palais de tokyo",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.864582,
+    "expectedLon": 2.296652
+  },
+  {
+    "lang": "fr",
+    "query": "palais de l'élysée",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.870427,
+    "expectedLon": 2.316696
+  },
+  {
+    "lang": "fr",
+    "query": "square louise michel",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.885194,
+    "expectedLon": 2.343304
+  },
+  {
+    "lang": "fr",
+    "query": "cimetiere pere",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.861394,
+    "expectedLon": 2.393224
+  },
+  {
+    "lang": "fr",
+    "query": "musee picasso",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.859896,
+    "expectedLon": 2.362248
+  },
+  {
+    "lang": "fr",
+    "query": "parc de choisy",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.828094,
+    "expectedLon": 2.360123
+  },
+  {
+    "lang": "fr",
+    "query": "2 quai austerlitz",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.837992,
+    "expectedLon": 2.373016
+  },
+  {
+    "lang": "fr",
+    "query": "timhotel opera",
+    "car_lat": "48.858214",
+    "car_lon": "2.355669",
+    "expectedLat": 48.879529,
+    "expectedLon": 2.333456
+  }
+]
