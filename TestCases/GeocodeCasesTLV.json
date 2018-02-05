@@ -1,0 +1,899 @@
+
+[
+  {
+    "lang": "he",
+    "query": "תחנה מרכזית תל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.056055,
+    "expectedLon": 34.779461
+  },
+  {
+    "lang": "he",
+    "query": "מגדל רובינשטיין",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.061947,
+    "expectedLon": 34.779437
+  },
+  {
+    "lang": "he",
+    "query": "יהודה מכבי 45",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.09389,
+    "expectedLon": 34.788906
+  },
+  {
+    "lang": "he",
+    "query": "נמל תל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.097249,
+    "expectedLon": 34.77384
+  },
+  {
+    "lang": "he",
+    "query": "וייצמן 45",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.084169,
+    "expectedLon": 34.78905
+  },
+  {
+    "lang": "he",
+    "query": "שוק בצלאל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.070702,
+    "expectedLon": 34.770866
+  },
+  {
+    "lang": "he",
+    "query": "החלוצים 23 תל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.05879,
+    "expectedLon": 34.773065
+  },
+  {
+    "lang": "he",
+    "query": "בית העיתונאים",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.073244,
+    "expectedLon": 34.782509
+  },
+  {
+    "lang": "he",
+    "query": "הברזל 23 תל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.109173,
+    "expectedLon": 34.839762
+  },
+  {
+    "lang": "he",
+    "query": "מרכז בעלי",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.069822,
+    "expectedLon": 34.773428
+  },
+  {
+    "lang": "he",
+    "query": "כיכר רבין",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.080536,
+    "expectedLon": 34.78062
+  },
+  {
+    "lang": "he",
+    "query": "שוק הפשפשים",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.053658,
+    "expectedLon": 34.755533
+  },
+  {
+    "lang": "he",
+    "query": "הילטון",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.089161,
+    "expectedLon": 34.770894
+  },
+  {
+    "lang": "he",
+    "query": "כיכר אתרים",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.085898,
+    "expectedLon": 34.769947
+  },
+  {
+    "lang": "he",
+    "query": "יהודה הימית יפו",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.049916,
+    "expectedLon": 34.755035
+  },
+  {
+    "lang": "he",
+    "query": "לבונטין 7",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.061777,
+    "expectedLon": 34.774777
+  },
+  {
+    "lang": "he",
+    "query": "יפת 40",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.051131,
+    "expectedLon": 34.752889
+  },
+  {
+    "lang": "he",
+    "query": "מגדל המאה",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.08659,
+    "expectedLon": 34.782315
+  },
+  {
+    "lang": "he",
+    "query": "גן מאיר",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.072823,
+    "expectedLon": 34.773421
+  },
+  {
+    "lang": "he",
+    "query": "מוזיאון ארץ ישראל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.103148,
+    "expectedLon": 34.796163
+  },
+  {
+    "lang": "he",
+    "query": "בן גוריון 42 תל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.084213,
+    "expectedLon": 34.774376
+  },
+  {
+    "lang": "he",
+    "query": "בן גוריון 42 תל אב",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.084213,
+    "expectedLon": 34.774376
+  },
+  {
+    "lang": "he",
+    "query": "שוקן 8",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.053879,
+    "expectedLon": 34.772051
+  },
+  {
+    "lang": "he",
+    "query": "קרליבך",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.068904,
+    "expectedLon": 34.782949
+  },
+  {
+    "lang": "he",
+    "query": "כרם התימנים",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.069723,
+    "expectedLon": 34.767393
+  },
+  {
+    "lang": "he",
+    "query": "פארק הירקון",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.100776,
+    "expectedLon": 34.81183
+  },
+  {
+    "lang": "he",
+    "query": "שגרירות ארצות הברית",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.076727,
+    "expectedLon": 34.766701
+  },
+  {
+    "lang": "en",
+    "query": "dizengoff center",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.075416,
+    "expectedLon": 34.775588
+  },
+  {
+    "lang": "en",
+    "query": "46 ben ye",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.07771,
+    "expectedLon": 34.768463
+  },
+  {
+    "lang": "he",
+    "query": "רידינג",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.098886,
+    "expectedLon": 34.778417
+  },
+  {
+    "lang": "he",
+    "query": "איכילוב תל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.080602,
+    "expectedLon": 34.789659
+  },
+  {
+    "lang": "he",
+    "query": "הרב קוק 3 תל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.071821,
+    "expectedLon": 34.76473
+  },
+  {
+    "lang": "he",
+    "query": "שוק הכר",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.068314,
+    "expectedLon": 34.768478
+  },
+  {
+    "lang": "he",
+    "query": "בזלת 10",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 31.991232,
+    "expectedLon": 34.947593
+  },
+  {
+    "lang": "he",
+    "query": "פינסקר 15",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.074277,
+    "expectedLon": 34.769787
+  },
+  {
+    "lang": "he",
+    "query": "שרונה",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.072397,
+    "expectedLon": 34.786601
+  },
+  {
+    "lang": "he",
+    "query": "חוף מציצים",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.093701,
+    "expectedLon": 34.770969
+  },
+  {
+    "lang": "he",
+    "query": "טאגור 3",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.113384,
+    "expectedLon": 34.79572
+  },
+  {
+    "lang": "en",
+    "query": "ichilov hospital",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.080527,
+    "expectedLon": 34.78974
+  },
+  {
+    "lang": "he",
+    "query": "סלמה 36",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.054608,
+    "expectedLon": 34.764699
+  },
+  {
+    "lang": "en",
+    "query": "sarona",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.07241,
+    "expectedLon": 34.786713
+  },
+  {
+    "lang": "he",
+    "query": "כיכר המדינה",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.086697,
+    "expectedLon": 34.789682
+  },
+  {
+    "lang": "he",
+    "query": "מזאה 12 תל אביב",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.067215,
+    "expectedLon": 34.772709
+  },
+  {
+    "lang": "he",
+    "query": "גני התערוכה",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.105456,
+    "expectedLon": 34.808818
+  },
+  {
+    "lang": "he",
+    "query": "חוף גורדון",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.082713,
+    "expectedLon": 34.768274
+  },
+  {
+    "lang": "he",
+    "query": "סוזן דלאל",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.060701,
+    "expectedLon": 34.764215
+  },
+  {
+    "lang": "he",
+    "query": "סינמטק",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.070765,
+    "expectedLon": 34.783265
+  },
+  {
+    "lang": "he",
+    "query": "פלורנטין",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.056128,
+    "expectedLon": 34.772111
+  },
+  {
+    "lang": "he",
+    "query": "שרונה",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.07266,
+    "expectedLon": 34.78711
+  },
+  {
+    "lang": "en",
+    "query": "cinematheque",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.070704,
+    "expectedLon": 34.783358
+  },
+  {
+    "lang": "en",
+    "query": "Beit Rubinstein",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.065788,
+    "expectedLon": 34.782967
+  },
+  {
+    "lang": "he",
+    "query": "תיאטרון תמונע",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.066349,
+    "expectedLon": 34.787619
+  },
+  {
+    "lang": "en",
+    "query": "levinstein to",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.063869,
+    "expectedLon": 34.779926
+  },
+  {
+    "lang": "en",
+    "query": "king george 38",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.073043,
+    "expectedLon": 34.774893
+  },
+  {
+    "lang": "en",
+    "query": "4 ben shemen",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.075342,
+    "expectedLon": 34.794551
+  },
+  {
+    "lang": "en",
+    "query": "art museum tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.077543,
+    "expectedLon": 34.786731
+  },
+  {
+    "lang": "en",
+    "query": "pinsker 40",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.075801,
+    "expectedLon": 34.771661
+  },
+  {
+    "lang": "he",
+    "query": "פינס 22 תל אביב",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.062416,
+    "expectedLon": 34.766677
+  },
+  {
+    "lang": "he",
+    "query": "רציף הרברט סמואל 69",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.073761,
+    "expectedLon": 34.765366
+  },
+  {
+    "lang": "he",
+    "query": "אלחריזי 24",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.084562,
+    "expectedLon": 34.781472
+  },
+  {
+    "lang": "en",
+    "query": "retsif herbert samuel 55",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.073409,
+    "expectedLon": 34.765003
+  },
+  {
+    "lang": "en",
+    "query": "tmuna",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.06635,
+    "expectedLon": 34.787616
+  },
+  {
+    "lang": "he",
+    "query": "נונה איבן גבירול",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.076913,
+    "expectedLon": 34.781573
+  },
+  {
+    "lang": "en",
+    "query": "jabotinski 122 tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.08696,
+    "expectedLon": 34.788207
+  },
+  {
+    "lang": "en",
+    "query": "alenby 54",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.070868,
+    "expectedLon": 34.769902
+  },
+  {
+    "lang": "en",
+    "query": "us embassy",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.076677,
+    "expectedLon": 34.76674
+  },
+  {
+    "lang": "en",
+    "query": "12 Ha umanim tel aviv",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.071255,
+    "expectedLon": 34.795177
+  },
+  {
+    "lang": "en",
+    "query": "hayarkon 68",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.075825,
+    "expectedLon": 34.76685
+  },
+  {
+    "lang": "en",
+    "query": "iben gabirol 125",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.088419,
+    "expectedLon": 34.782181
+  },
+  {
+    "lang": "en",
+    "query": "levontin 7",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.061767,
+    "expectedLon": 34.774772
+  },
+  {
+    "lang": "en",
+    "query": "florentine tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.056134,
+    "expectedLon": 34.772138
+  },
+  {
+    "lang": "en",
+    "query": "4 ben shemen tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.075319,
+    "expectedLon": 34.794564
+  },
+  {
+    "lang": "en",
+    "query": "habarzel 15",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.107811,
+    "expectedLon": 34.837825
+  },
+  {
+    "lang": "en",
+    "query": "hilton",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.089088,
+    "expectedLon": 34.770877
+  },
+  {
+    "lang": "en",
+    "query": "tel aviv university",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.113332,
+    "expectedLon": 34.803851
+  },
+  {
+    "lang": "en",
+    "query": "derekh ben zvi 43",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.048174,
+    "expectedLon": 34.764846
+  },
+  {
+    "lang": "en",
+    "query": "yefet 56 jaffa",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.048019,
+    "expectedLon": 34.752386
+  },
+  {
+    "lang": "en",
+    "query": "Seaport, Tel Aviv",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.096214,
+    "expectedLon": 34.773467
+  },
+  {
+    "lang": "he",
+    "query": "בית מעריב",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.066928,
+    "expectedLon": 34.784533
+  },
+  {
+    "lang": "en",
+    "query": "eilat 22",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.057721,
+    "expectedLon": 34.763594
+  },
+  {
+    "lang": "en",
+    "query": "chayim vital 3",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.056873,
+    "expectedLon": 34.76789
+  },
+  {
+    "lang": "en",
+    "query": "maze 24",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.066727,
+    "expectedLon": 34.774393
+  },
+  {
+    "lang": "en",
+    "query": "shlomo hamelech 78",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.083442,
+    "expectedLon": 34.778462
+  },
+  {
+    "lang": "en",
+    "query": "haarbaa 22",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.070257,
+    "expectedLon": 34.785536
+  },
+  {
+    "lang": "en",
+    "query": "ben gurion 64 tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.083303,
+    "expectedLon": 34.776288
+  },
+  {
+    "lang": "en",
+    "query": "stock exchange tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.06413,
+    "expectedLon": 34.770134
+  },
+  {
+    "lang": "en",
+    "query": "24 frishman",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.079762,
+    "expectedLon": 34.771103
+  },
+  {
+    "lang": "en",
+    "query": "rabin square",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.080673,
+    "expectedLon": 34.780644
+  },
+  {
+    "lang": "en",
+    "query": "gan meir",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.073087,
+    "expectedLon": 34.77324
+  },
+  {
+    "lang": "en",
+    "query": "jaffa port",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.052646,
+    "expectedLon": 34.750086
+  },
+  {
+    "lang": "en",
+    "query": "nahalat binyamin 95 tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.060282,
+    "expectedLon": 34.772667
+  },
+  {
+    "lang": "en",
+    "query": "45 Rothschild Av, Tel Aviv, Israel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.064197,
+    "expectedLon": 34.774572
+  },
+  {
+    "lang": "he",
+    "query": "נמל יפו",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.050068,
+    "expectedLon": 34.749066
+  },
+  {
+    "lang": "en",
+    "query": "carmel market",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.068667,
+    "expectedLon": 34.769041
+  },
+  {
+    "lang": "en",
+    "query": "gan hair",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.082437,
+    "expectedLon": 34.780398
+  },
+  {
+    "lang": "en",
+    "query": "namir 80 tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.088425,
+    "expectedLon": 34.795658
+  },
+  {
+    "lang": "en",
+    "query": "habima",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.072568,
+    "expectedLon": 34.778925
+  },
+  {
+    "lang": "en",
+    "query": "weizmann st 39 tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.082957,
+    "expectedLon": 34.789018
+  },
+  {
+    "lang": "en",
+    "query": "reading terminal",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.098914,
+    "expectedLon": 34.779636
+  },
+  {
+    "lang": "en",
+    "query": "basel 66",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.089512,
+    "expectedLon": 34.782447
+  },
+  {
+    "lang": "en",
+    "query": "bugrashov 24",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.07688,
+    "expectedLon": 34.76961
+  },
+  {
+    "lang": "he",
+    "query": "אבן גבירול 132",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.087939,
+    "expectedLon": 34.782425
+  },
+  {
+    "lang": "he",
+    "query": "דיזנגוף 123",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.08124,
+    "expectedLon": 34.773663
+  },
+  {
+    "lang": "en",
+    "query": "25 menachem begin tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.064041,
+    "expectedLon": 34.780288
+  },
+  {
+    "lang": "en",
+    "query": "jabotinsky 183 tel",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.08602,
+    "expectedLon": 34.794771
+  },
+  {
+    "lang": "en",
+    "query": "Central Bus Station",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.056236,
+    "expectedLon": 34.779067
+  },
+  {
+    "lang": "he",
+    "query": "רוטשילד 12",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.062826,
+    "expectedLon": 34.770381
+  },
+  {
+    "lang": "he",
+    "query": "מגדל לוינשטיין",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.063856,
+    "expectedLon": 34.779925
+  },
+  {
+    "lang": "en",
+    "query": "12 rothschild",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.062826,
+    "expectedLon": 34.770373
+  },
+  {
+    "lang": "en",
+    "query": "yehuda hamaccabi 120",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.094419,
+    "expectedLon": 34.794128
+  },
+  {
+    "lang": "en",
+    "query": "azrieli center",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.073978,
+    "expectedLon": 34.792022
+  },
+  {
+    "lang": "en",
+    "query": "flea market jaffa",
+    "car_lat": "32.071530",
+    "car_lon": "34.774133",
+    "expectedLat": 32.052822,
+    "expectedLon": 34.756913
+  }
+]
