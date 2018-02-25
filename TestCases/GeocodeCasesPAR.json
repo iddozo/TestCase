@@ -108,8 +108,8 @@
     "query": "port debilly",
     "car_lat": "48.858214",
     "car_lon": "2.355669",
-    "expectedLat": 48.862128,
-    "expectedLon": 2.293709
+    "expectedLat": 48.8603929,
+    "expectedLon": 2.2915034
   },
   {
     "lang": "fr",
@@ -196,7 +196,6 @@
     "query": "23 chateau des rentiers",
     "car_lat": "48.858214",
     "car_lon": "2.355669",
-    "expectedLat": 48.823875,
     "expectedLon": 2.370226
   },
   {
