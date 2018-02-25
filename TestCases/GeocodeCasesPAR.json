@@ -196,6 +196,7 @@
     "query": "23 chateau des rentiers",
     "car_lat": "48.858214",
     "car_lon": "2.355669",
+    "expectedLat": "48.823895",
     "expectedLon": 2.370226
   },
   {
