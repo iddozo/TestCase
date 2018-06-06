@@ -21,8 +21,8 @@
   },
  {
     "parking_duration": 6,
-    "destination_lat": 48.870333993871,
-    "destination_lon": 2.3162339595141,
+    "destination_lat": 48.868405,
+    "destination_lon": 2.316150,
     "geocoding_query": "Boulevard de la Villette",
     "lang": "en",
     "platform": "ios",
