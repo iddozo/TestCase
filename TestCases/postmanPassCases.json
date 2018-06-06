@@ -41,8 +41,8 @@
   },
   {
     "parking_duration": 1.5,
-    "destination_lat": 48.862078,
-    "destination_lon": 2.322534,
+    "destination_lat": 48.870516,
+    "destination_lon": 2.305918,
     "geocoding_query": "84436",
     "lang": "en",
     "platform": "ios",
