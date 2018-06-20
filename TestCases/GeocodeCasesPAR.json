@@ -177,7 +177,7 @@
   },
   {
     "lang": "fr",
-    "query": "square armand",
+    "query": "square Trousseau",
     "car_lat": "48.858214",
     "car_lon": "2.355669",
     "expectedLat": 48.850408,
