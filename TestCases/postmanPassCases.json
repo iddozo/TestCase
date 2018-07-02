@@ -181,8 +181,8 @@
   },
   {
     "parking_duration": 7.5,
-    "destination_lat": 48.860440894381,
-    "destination_lon": 2.3851696890505,
+    "destination_lat": 48.8722,
+    "destination_lon": 2.3946,
     "geocoding_query": "Avenue de Villiers",
     "lang": "en",
     "platform": "ios",
