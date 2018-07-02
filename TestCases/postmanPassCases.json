@@ -121,8 +121,8 @@
   },
   {
     "parking_duration": 5.5,
-    "destination_lat": 48.865806,
-    "destination_lon": 2.407556,
+    "destination_lat": 48.8458,
+    "destination_lon": 2.4000,
     "geocoding_query": "4 Avenue de la Porte de Sèvres",
     "lang": "en",
     "platform": "ios",
