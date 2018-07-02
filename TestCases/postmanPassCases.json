@@ -61,8 +61,8 @@
   },
   {
     "parking_duration": 2,
-    "destination_lat": 48.862300919263,
-    "destination_lon": 2.288224697113,
+    "destination_lat": 48.8675,
+    "destination_lon": 2.2823,
     "geocoding_query": "Rue Molitor",
     "lang": "en",
     "platform": "ios",
