@@ -101,8 +101,8 @@
   },
   {
     "parking_duration": 4.5,
-    "destination_lat": 48.848776,
-    "destination_lon": 2.337293,
+    "destination_lat": 48.8473,
+    "destination_lon": 2.3402,
     "geocoding_query": "83 Boulevard Brune",
     "lang": "en",
     "platform": "ios",
