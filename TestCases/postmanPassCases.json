@@ -201,8 +201,8 @@
   },
   {
     "parking_duration": 8,
-    "destination_lat": 48.860747129406,
-    "destination_lon": 2.2947237634298,
+    "destination_lat": 48.8721,
+    "destination_lon": 2.3067,
     "geocoding_query": "Rue de Rennes",
     "lang": "en",
     "platform": "ios",
