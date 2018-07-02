@@ -161,8 +161,8 @@
   },
   {
     "parking_duration": 7,
-    "destination_lat": 48.852303,
-    "destination_lon": 2.27454,
+    "destination_lat": 48.8393,
+    "destination_lon": 2.2747,
     "geocoding_query": "Rue Marcadet",
     "lang": "en",
     "platform": "ios",
