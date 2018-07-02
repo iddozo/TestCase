@@ -225,7 +225,7 @@
   },
   {
     "lang": "fr",
-    "query": "11 cabanis paris",
+    "query": "11 cabanis",
     "car_lat": "48.858214",
     "car_lon": "2.355669",
     "expectedLat": 48.830328,
