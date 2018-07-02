@@ -141,8 +141,8 @@
   },
   {
     "parking_duration": 6.5,
-    "destination_lat": 48.8579,
-    "destination_lon": 2.2998,
+    "destination_lat": 48.8542,
+    "destination_lon": 2.2907,
     "geocoding_query": "Place du 11 Novembre 1918",
     "lang": "en",
     "platform": "ios",
