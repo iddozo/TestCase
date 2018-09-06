@@ -121,7 +121,7 @@
   },
   {
     "lang": "fr",
-    "query": "hotel napoleon",
+    "query": "hotel napoleon par",
     "car_lat": "48.858214",
     "car_lon": "2.355669",
     "expectedLat": 48.874376,
