@@ -449,7 +449,7 @@
   },
   {
     "lang": "fr",
-    "query": "2 quai austerlitz",
+    "query": "9 quai d'austerlitz",
     "car_lat": "48.858214",
     "car_lon": "2.355669",
     "expectedLat": 48.837992,
