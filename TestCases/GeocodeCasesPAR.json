@@ -257,7 +257,7 @@
   },
   {
     "lang": "fr",
-    "query": "galerie lafayette",
+    "query": "galerie lafayette par",
     "car_lat": "48.858214",
     "car_lon": "2.355669",
     "expectedLat": 48.873665,
